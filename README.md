@@ -23,3 +23,6 @@ Now, just sit back and let your multi-threaded spiders do the job.
 ![](https://smartproxy.com/wp-content/uploads/2019/10/Web-Crawling-vs-scraping.svg)
 
 #### P.S. : This project has been inspired from [thenewboston](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGA8Vys-f48mAH9OKSUyav0q)'s spider.
+
+# Contributors:
+Ajay 
